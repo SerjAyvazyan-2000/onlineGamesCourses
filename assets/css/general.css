@@ -1,0 +1,54 @@
+:root {
+    --light-black: rgba(35, 35, 35, 1);
+
+}
+
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    min-height: 100%;
+
+}
+
+main {
+    flex: 1 1 auto;
+}
+
+.container {
+    max-width: 1380px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+
+
+@media (max-width: 1400px) {
+}
+
+@media (max-width: 1200px) {
+
+
+}
+
+@media (max-width: 992px) {
+
+
+}
+
+@media (max-width: 768px) {
+
+
+
+}
+
+@media (max-width: 576px) {
+
+
+}
+
+@media (max-width: 400px) {
+
+}
